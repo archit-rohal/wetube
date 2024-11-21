@@ -1,6 +1,7 @@
 // export const GOOGLE_API_KEY = "AIzaSyBUagqKvqGwJZdszxu-DG7PVlTHjByECmM";
 
-export const GOOGLE_API_KEY = "AIzaSyDYDj8HiIJtcwepyJBESow6i0F_-qoWex0";
+// export const GOOGLE_API_KEY = "AIzaSyDYDj8HiIJtcwepyJBESow6i0F_-qoWex0";
+export const GOOGLE_API_KEY = process.env.REACT_APP_YOUTUBE_API_KEY;
 
 // export const GOOGLE_API_KEY = "AIzaSyCERZDyfPzmGEjhw2XtAYoTxzgYBw4zfy4"
 
